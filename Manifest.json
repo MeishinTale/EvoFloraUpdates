@@ -1,0 +1,19 @@
+{
+  "ios": {
+    "minSupported": "1.0.0",
+    "latest": "1.0.1",
+    "mode": "soft",
+    "appStoreId": "YOUR_NUMERIC_ID"
+  },
+  "android": {
+    "minSupported": "1.0.0",
+    "latest": "1.0.1",
+    "mode": "soft"
+  },
+  "versions": {
+    "1.0.1": {
+      "en": [ "Fixed crash on Adreno 619 (OnePlus Nord N30)", "Sign-out no longer throws AuthenticationException" ],
+      "fr": [ "Correction d'un crash sur Adreno 619 (OnePlus Nord N30)", "Correction de la déconnexion" ]
+    }
+  }
+}
