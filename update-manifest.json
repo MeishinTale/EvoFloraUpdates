@@ -1,19 +1,25 @@
 {
   "ios": {
     "minSupported": "1.0.0",
-    "latest": "1.0.1",
+    "latest": "1.0.2",
     "mode": "soft",
     "appStoreId": "6760650221"
   },
   "android": {
     "minSupported": "1.0.0",
-    "latest": "1.0.1",
+    "latest": "1.0.2",
     "mode": "soft"
   },
   "versions": {
     "1.0.1": {
-      "en": [ "Fixed crash on Adreno 619 (OnePlus Nord N30)", "Sign-out no longer throws AuthenticationException" ],
-      "fr": [ "Correction d'un crash sur Adreno 619 (OnePlus Nord N30)", "Correction de la déconnexion" ]
+      "en": [ "Improved Authentication and Leaderboard/score submission handling when facing connection issues", "Fixed 5 reported issues (1 medium: vegetation occasionally stopped displaying; 4 minors)", "Corrected/improved descriptions for Water Lilies, Lotuses, Orchids, and Stonecrops", "Added missing contributor credits", "Added missing localization strings across UI" ],
+      "fr": [ "Amélioration de la gestion de l'authentification et de l'envoi des scores au classement en cas de problèmes de connexion", "Correction de 5 problèmes signalés (1 moyen : la végétation cessait parfois de s'afficher ; 4 mineurs)", "Descriptions corrigées et améliorées pour les nénuphars, les lotus, les orchidées et les orpins", "Ajout des crédits de contributeurs manquants", "Ajout des textes de localisation manquants dans l'interface" ],
+      "de": [ "Verbesserte Verarbeitung von Anmeldung und Bestenlisten-/Punkteübermittlung bei Verbindungsproblemen", "5 gemeldete Probleme behoben (1 mittleres: Vegetation wurde gelegentlich nicht mehr angezeigt; 4 kleinere)", "Beschreibungen für Seerosen, Lotusblumen, Orchideen und Fetthennen korrigiert und verbessert", "Fehlende Beitragenden-Credits ergänzt", "Fehlende Lokalisierungstexte in der Benutzeroberfläche ergänzt" ],
+      "it": [ "Migliorata la gestione dell'autenticazione e dell'invio dei punteggi alla classifica in caso di problemi di connessione", "Corretti 5 problemi segnalati (1 medio: la vegetazione a volte smetteva di essere visualizzata; 4 minori)", "Descrizioni corrette e migliorate per ninfee, loti, orchidee e borracine", "Aggiunti i crediti dei collaboratori mancanti", "Aggiunte le stringhe di localizzazione mancanti nell'interfaccia" ],
+      "es": [ "Mejorada la gestión de la autenticación y del envío de puntuaciones a la clasificación cuando hay problemas de conexión", "Corregidos 5 problemas reportados (1 medio: la vegetación dejaba de mostrarse en ocasiones; 4 menores)", "Descripciones corregidas y mejoradas para nenúfares, lotos, orquídeas y sedums", "Añadidos los créditos de colaboradores que faltaban", "Añadidos los textos de localización que faltaban en la interfaz" ]
+    },
+    "1.0.2": {
+      "en": [ "Fixed a crash on some Android devices (Adreno 619) and a rendering issue on Galaxy A12", "Reworked tutorial with clearer steps and a quick follow-up panel", "Region view now shows fill bars and which species you've bred, and the nursery centers on the species you pick", "Added per-plant climate-change impact indicators, with reworked mineral effects", "New badge icon system, new grid view with current densities", "Intro video now has subtitles, plus more localization fixes (including German review)", "Other fixes: screen default orientation and safe-area, sign-in and leaderboard reliability, nursery filters, and assorted UI polish" ]
     }
   }
 }
