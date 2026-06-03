@@ -60,6 +60,7 @@
 - Reworked tutorial with clearer steps and a quick follow-up panel
 - Region view now shows fill bars and which species you're breeding, and the nursery centers on the species you pick
 - New badge icon system, and added water topology icon
+- Added new Asterids 3D models: Holly and Bellflower (4/13)
 - Intro video now has subtitles, plus more localization fixes (including German review)
 - Other fixes: screen default orientation and safe-area, sign-in and leaderboard reliability, nursery filters, and assorted UI polish
 
@@ -69,6 +70,7 @@
 - Tutoriel retravaillé, avec des étapes plus claires et un panneau de suivi rapide
 - La vue des régions affiche désormais des barres de remplissage et les espèces que vous reproduisez, et la pépinière se centre sur l'espèce sélectionnée
 - Nouveau système d'icônes de badges, et ajout d'une icône de topologie de l'eau
+- Ajout de nouveaux modèles 3D d'Astéridées : le houx et la campanule (4/13)
 - La vidéo d'introduction propose désormais des sous-titres, et d'autres corrections de localisation (dont une révision de l'allemand)
 - Autres corrections : orientation par défaut de l'écran et zone de sécurité, fiabilité de la connexion et du classement, filtres de la pépinière, et diverses améliorations de l'interface
 
@@ -78,6 +80,7 @@
 - Überarbeitetes Tutorial mit klareren Schritten und einem schnellen Folge-Panel
 - Die Regionsansicht zeigt jetzt Füllbalken und welche Arten du züchtest, und die Gärtnerei zentriert auf die ausgewählte Art
 - Neues Badge-Icon-System und ein neues Symbol für die Wassertopologie
+- Neue 3D-Modelle der Asteriden hinzugefügt: Stechpalme und Glockenblume (4/13)
 - Das Intro-Video hat jetzt Untertitel, dazu weitere Lokalisierungskorrekturen (inklusive einer Überarbeitung des Deutschen)
 - Weitere Korrekturen: Standard-Bildschirmausrichtung und sicherer Bereich, Zuverlässigkeit von Anmeldung und Bestenliste, Gärtnerei-Filter und diverser UI-Feinschliff
 
@@ -87,6 +90,7 @@
 - Tutorial rielaborato, con passaggi più chiari e un pannello di riepilogo rapido
 - La vista delle regioni ora mostra le barre di riempimento e quali specie stai riproducendo, e il vivaio si centra sulla specie selezionata
 - Nuovo sistema di icone per i badge e aggiunta un'icona della topologia dell'acqua
+- Aggiunti nuovi modelli 3D di Asteridi: agrifoglio e campanula (4/13)
 - Il video introduttivo ora ha i sottotitoli, oltre ad altre correzioni di localizzazione (inclusa una revisione del tedesco)
 - Altre correzioni: orientamento predefinito dello schermo e area di sicurezza, affidabilità di accesso e classifica, filtri del vivaio e vari ritocchi all'interfaccia
 
@@ -96,5 +100,6 @@
 - Tutorial rediseñado, con pasos más claros y un panel de seguimiento rápido
 - La vista de regiones ahora muestra barras de llenado y qué especies estás reproduciendo, y el vivero se centra en la especie seleccionada
 - Nuevo sistema de iconos de insignias y añadido un icono de topología del agua
+- Añadidos nuevos modelos 3D de Astéridas: acebo y campánula (4/13)
 - El vídeo de introducción ahora tiene subtítulos, además de más correcciones de localización (incluida una revisión del alemán)
 - Otras correcciones: orientación predeterminada de la pantalla y área segura, fiabilidad del inicio de sesión y de la clasificación, filtros del vivero y varios ajustes de la interfaz
