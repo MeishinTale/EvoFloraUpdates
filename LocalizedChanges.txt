@@ -55,7 +55,7 @@
 === 1.0.2 ===
 
 [en]
-- Fixed a crash on some Android devices (Adreno 619) and a rendering issue on Galaxy A12
+- Fixed a crash on some Android devices (Adreno 619) and a rendering issue on Galaxy A12 and devices with PowerVR GPU
 - Added per-plant climate-change impact indicators, with reworked effects particularly on minerals
 - Reworked tutorial with clearer steps and a quick follow-up panel
 - Region view now shows fill bars and which species you're breeding, and the nursery centers on the species you pick
@@ -65,7 +65,7 @@
 - Other fixes: screen default orientation and safe-area, sign-in and leaderboard reliability, nursery filters, and assorted UI polish
 
 [fr]
-- Correction d'un crash sur certains appareils Android (Adreno 619) et d'un problème d'affichage sur Galaxy A12
+- Correction d'un crash sur certains appareils Android (Adreno 619) et d'un problème d'affichage sur Galaxy A12 et les appareils équipés d'un GPU PowerVR
 - Ajout d'indicateurs d'impact du changement climatique par plante, avec des effets retravaillés, en particulier sur les minéraux
 - Tutoriel retravaillé, avec des étapes plus claires et un panneau de suivi rapide
 - La vue des régions affiche désormais des barres de remplissage et les espèces que vous reproduisez, et la pépinière se centre sur l'espèce sélectionnée
@@ -75,7 +75,7 @@
 - Autres corrections : orientation par défaut de l'écran et zone de sécurité, fiabilité de la connexion et du classement, filtres de la pépinière, et diverses améliorations de l'interface
 
 [de]
-- Absturz auf einigen Android-Geräten behoben (Adreno 619) sowie ein Darstellungsproblem auf dem Galaxy A12
+- Absturz auf einigen Android-Geräten behoben (Adreno 619) sowie ein Darstellungsproblem auf dem Galaxy A12 und Geräten mit PowerVR-GPU
 - Neue Indikatoren für den Einfluss des Klimawandels pro Pflanze, mit überarbeiteten Effekten, insbesondere bei Mineralien
 - Überarbeitetes Tutorial mit klareren Schritten und einem schnellen Folge-Panel
 - Die Regionsansicht zeigt jetzt Füllbalken und welche Arten du züchtest, und die Gärtnerei zentriert auf die ausgewählte Art
@@ -85,7 +85,7 @@
 - Weitere Korrekturen: Standard-Bildschirmausrichtung und sicherer Bereich, Zuverlässigkeit von Anmeldung und Bestenliste, Gärtnerei-Filter und diverser UI-Feinschliff
 
 [it]
-- Corretto un crash su alcuni dispositivi Android (Adreno 619) e un problema di visualizzazione su Galaxy A12
+- Corretto un crash su alcuni dispositivi Android (Adreno 619) e un problema di visualizzazione su Galaxy A12 e dispositivi con GPU PowerVR
 - Aggiunti indicatori dell'impatto del cambiamento climatico per pianta, con effetti rielaborati, in particolare sui minerali
 - Tutorial rielaborato, con passaggi più chiari e un pannello di riepilogo rapido
 - La vista delle regioni ora mostra le barre di riempimento e quali specie stai riproducendo, e il vivaio si centra sulla specie selezionata
@@ -95,7 +95,7 @@
 - Altre correzioni: orientamento predefinito dello schermo e area di sicurezza, affidabilità di accesso e classifica, filtri del vivaio e vari ritocchi all'interfaccia
 
 [es]
-- Corregido un fallo en algunos dispositivos Android (Adreno 619) y un problema de renderizado en el Galaxy A12
+- Corregido un fallo en algunos dispositivos Android (Adreno 619) y un problema de renderizado en el Galaxy A12 y dispositivos con GPU PowerVR
 - Añadidos indicadores del impacto del cambio climático por planta, con efectos rediseñados, en particular sobre los minerales
 - Tutorial rediseñado, con pasos más claros y un panel de seguimiento rápido
 - La vista de regiones ahora muestra barras de llenado y qué especies estás reproduciendo, y el vivero se centra en la especie seleccionada
