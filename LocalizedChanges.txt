@@ -103,3 +103,31 @@
 - Añadidos nuevos modelos 3D de Astéridas: acebo, campánula y girasol (5/13)
 - El vídeo de introducción ahora tiene subtítulos, además de más correcciones de localización (incluida una revisión del alemán)
 - Otras correcciones: orientación predeterminada de la pantalla y área segura, fiabilidad del inicio de sesión y de la clasificación, filtros del vivero y varios ajustes de la interfaz
+
+
+=== 1.0.3 ===
+
+[en]
+- Fixed black screen / "graphics don't show" on PowerVR GPUs phones (Oukitel, Blackview, ..) when entering a map
+- Temperatures range fix (arctic climates readability issue)
+- Improved saving
+
+[fr]
+- Correction d'un écran noir / « graphismes manquants » sur les téléphones à GPU PowerVR (Oukitel, Blackview, etc.) à l'entrée d'une carte
+- Correction de l'affichage des plages de température (problème de lisibilité dans les climats arctiques)
+- Sauvegarde améliorée
+
+[de]
+- Schwarzer Bildschirm / fehlende Grafik auf Smartphones mit PowerVR-GPU (Oukitel, Blackview usw.) beim Betreten einer Karte behoben
+- Anzeige der Temperaturbereiche korrigiert (Lesbarkeitsproblem in arktischen Klimazonen)
+- Verbessertes Speichern
+
+[it]
+- Corretto lo schermo nero / la grafica mancante sui telefoni con GPU PowerVR (Oukitel, Blackview, ecc.) all'ingresso in una mappa
+- Corretta la visualizzazione degli intervalli di temperatura (problema di leggibilità nei climi artici)
+- Salvataggio migliorato
+
+[es]
+- Corregida la pantalla negra / los gráficos que no se mostraban en teléfonos con GPU PowerVR (Oukitel, Blackview, etc.) al entrar en un mapa
+- Corregida la visualización de los rangos de temperatura (problema de legibilidad en climas árticos)
+- Guardado mejorado
