@@ -131,3 +131,36 @@
 - Corregida la pantalla negra / los gráficos que no se mostraban en teléfonos con GPU PowerVR (Oukitel, Blackview, etc.) al entrar en un mapa
 - Corregida la visualización de los rangos de temperatura (problema de legibilidad en climas árticos)
 - Guardado mejorado
+
+
+=== 1.0.4 ===
+
+[en]
+- Two new Arctic maps, each with a new selection of starting perks
+- New camera controls: free rotation, plus adjustable movement and zoom sensitivity
+- UI and UX improvements across the board: tutorial, main-objective progress, Nursery, map zones, and localization
+- Fixed ads not loading, plus store-init retries and numerous stability and crash fixes
+
+[fr]
+- Deux nouvelles cartes arctiques, chacune avec une nouvelle sélection de bonus de départ
+- Nouvelles options de caméra : rotation libre, et sensibilité réglable du déplacement et du zoom
+- Améliorations de l'interface et de l'expérience sur l'ensemble du jeu : tutoriel, progression de l'objectif principal, pépinière, zones de carte et localisation
+- Correction du chargement des publicités, avec de nouvelles tentatives d'initialisation de la boutique et de nombreuses corrections de stabilité et de plantages
+
+[de]
+- Zwei neue arktische Karten, jeweils mit einer neuen Auswahl an Start-Boni
+- Neue Kamerasteuerung: freie Rotation sowie einstellbare Bewegungs- und Zoom-Empfindlichkeit
+- Verbesserungen an Benutzeroberfläche und Bedienung im gesamten Spiel: Tutorial, Fortschritt des Hauptziels, Gärtnerei, Kartenzonen und Lokalisierung
+- Behoben: Werbung wurde nicht geladen; zusätzlich Store-Initialisierungs-Wiederholungen und zahlreiche Stabilitäts- und Absturzkorrekturen
+
+[it]
+- Due nuove mappe artiche, ciascuna con una nuova selezione di bonus iniziali
+- Nuovi controlli della telecamera: rotazione libera e sensibilità regolabile di movimento e zoom
+- Miglioramenti all'interfaccia e all'esperienza d'uso in tutto il gioco: tutorial, avanzamento dell'obiettivo principale, vivaio, zone della mappa e localizzazione
+- Corretto il caricamento delle pubblicità, con nuovi tentativi di inizializzazione dello store e numerose correzioni di stabilità e crash
+
+[es]
+- Dos nuevos mapas árticos, cada uno con una nueva selección de ventajas iniciales
+- Nuevos controles de cámara: rotación libre y sensibilidad ajustable de movimiento y zoom
+- Mejoras de interfaz y experiencia de usuario en todo el juego: tutorial, progreso del objetivo principal, vivero, zonas del mapa y localización
+- Corregida la carga de anuncios, con reintentos de inicialización de la tienda y numerosas correcciones de estabilidad y de fallos
